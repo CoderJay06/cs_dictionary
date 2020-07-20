@@ -56,7 +56,7 @@ int main() {
             printf("Invalid option selected...\n");
             break;
       }
-   } while (choiceInput != 5);
+   } while (choiceInput != 6);
 
    freeMemory(dictionary, eSize);
 
