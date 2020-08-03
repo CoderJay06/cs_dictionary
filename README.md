@@ -8,4 +8,4 @@ The user can add Computer Science topics to the dictionary
 with a description or definition explaining them. The user 
 can delete and search these topics with their definitions 
 and they have the option to add everything to binary and 
-text files if they choose to do so.
+text files.
